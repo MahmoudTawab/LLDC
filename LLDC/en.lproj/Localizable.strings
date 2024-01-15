@@ -1,0 +1,595 @@
+/* 
+  Localizable.strings
+  LLDC
+
+  Created by Emojiios on 28/03/2022.
+  
+*/
+
+"lang" = "en";
+
+"back" = "back";
+
+"Cancel" = "Cancel";
+
+"Close" = "Close";
+
+"Done" = "Done";
+
+"of" = "of";
+
+"photo" = "photo";
+
+"photos" = "photos";
+
+"Try Again" = "Try Again";
+
+"Loading ...." = "Loading ....";
+
+"Pull more" = "Pull more...";
+
+"Updating" = "Updating...";
+
+"Error" = "Error";
+
+"Success" = "Success";
+
+"Warning" = "Warning";
+
+"Map" = "Map";
+
+"second" = "second";
+
+"min" = "min";
+
+"hour" = "hour";
+
+"day" = "day";
+
+"week" = "week";
+
+"month" = "month";
+
+"Year" = "Year";
+
+"ago" = "ago";
+
+"s" = "s";
+
+"French" = "French";
+
+"Arabic" = "Arabic";
+
+"Einglish" = "Einglish";
+
+"Explore Areas" = "Explore Areas";
+
+"Recent Searches" = "Recent Searches";
+
+"Search Results" = "Search Results";
+
+"Something went wrong" = "Something went wrong";
+
+"The request timed out." = "The request timed out.";
+
+"InternetNotAvailable" = "Internet Connection not Available!";
+
+"There is no change in the data" = "There is no change in the data";
+
+"Something went wrong while processing your request, please try again later" = "Something went wrong while processing your request, please try again later";
+
+"HelMSG" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo";
+
+
+////// StatusCodes
+
+"ERROR MESSAG" = "ERROR MESSAG";
+"No Content" = "No Content";
+"NotModified" = "Not Modified";
+"Bad Request" = "Bad Request";
+"Unauthorized" = "Unauthorized";
+"Not Found" = "Not Found";
+"NotAllowed" = "Not Allowed";
+"internalServerError" = "internalServerError";
+"Email is used" = "Email is used";
+"Phone Number is used" = "Phone Number is used";
+"User already exists" = "User already exists";
+"You have reached the invitation limit" = "You have reached the invitation limit";
+
+
+////// FloatingTF
+
+"It can't be empty" = "It can't be empty";
+
+"Enter the email correctly" = "Enter the email correctly";
+
+"The phone number should begin with 01" = "Enter the phone number correctly";
+
+"Password must be more than 6 elements" = "Password must be more than 6 elements";
+
+
+/////  SignInController
+
+"Email" = "Email";
+
+"Sign In" = "Sign In";
+
+"Bonjour!" = "Good morning!";
+
+"Password" =  "Password";
+
+"Forgot password?" = "Forgot password?";
+
+"now!" = "now!";
+
+"Explore" = "Explore ";
+
+"Sign In to your account" = "Sign In to your account";
+
+"Don’t have an account?" = "Don’t have an account?";
+
+"Apply for membership" = "Apply for membership";
+
+/////  ResetPassword
+
+"Reset Password" = "Reset Password";
+
+"Forgot your password" = "Forgot your password?";
+
+"Reset password Message" = "Enter your email address or phone number, in order to receive your one time password to reset your password";
+
+"Password Reset link" = "Password Reset link";
+
+"Password reset link has been successfully sent to your email" = "Password reset link has been successfully sent to your email";
+
+
+////// OTPController
+
+"Verification Code" = "Verification Code";
+
+"Please enter the OTP that has been just sent to your mobile number" = "Please enter the OTP that has been just sent to your mobile number";
+
+"OTP is not correct" = "OTP is not correct";
+
+"Validate" = "Validate";
+
+"sec" = "sec";
+
+"Edit Number" = "Edit Number";
+
+"Resend OTP" = "Resend OTP";
+
+"The code will be resend in" = "The code will be resend in";
+
+"Go Home" = "Go Home";
+
+////// SignUp
+
+"City" = "City";
+
+"Sign Up" = "Sign Up";
+
+"Instagram" = "Instagram";
+
+"Facebook" = "Facebook";
+
+"Birthday" = "Birthday";
+
+"Full name" = "Full name";
+
+"Linked in" = "Linked in";
+
+"Male" = "Male";
+
+"FeMale" = "FeMale";
+
+"Gender" = "Gender";
+
+"FamilyMembers" = "FamilyMembers";
+
+"Already have an account" = "Already have an account";
+
+"to your account here" = "to your account here";
+
+"Phone Numbe" = "Phone Numbe";
+
+"Home Address" = "Home Address";
+
+"Select your country" = "Select your country";
+
+"Apply for membership" = "Apply for membership";
+
+"How did you know us?" = "How did you know us?";
+
+"to your account here!" = "to your account here!";
+
+"Already have an account?" = "Already have an account?";
+
+"I read and agree to the Terms and Conditions" = "I read and agree to the Terms and Conditions";
+
+
+////// homeVC
+"Featured Events" = "Featured Events";
+
+"Shops offers" = "Shops offers";
+
+"Food & Beverage" = "Food & Beverage";
+
+"Happening now" = "Happening now";
+
+"Jardins" = "Jardins";
+
+"Utilitie" = "Utilitie";
+
+"Utilities" = "Utilities";
+
+"Top" = "Top";
+
+"Coming soon Events" = "Coming soon Events";
+
+"Let’s explore today’s fun!" = "Let’s explore today’s fun!";
+
+///// MenuVC
+
+"View Profile" = "View Profile ❯";
+
+"Become Platinum Member" = "Become Platinum Member";
+
+"Update Password" = "Update Password";
+
+"Reservations" = "Reservations";
+
+"Inquire for your event" = "Inquire for your event";
+
+"Pending Reviews" = "Pending Reviews";
+
+"Saved" = "Saved";
+
+"Settings" = "Settings";
+
+"Help" = "Help";
+
+"Language" = "Language";
+
+"Log Out" = "Log Out";
+
+"Are You Sure You Want to log out of your account" = "Are You Sure You Want to log out of your account";
+
+
+////// Notifications
+
+"Delete" = "Delete";
+
+"Notifications" = "Notifications";
+
+"You have" = "You have";
+
+"unread notifications" = "unread notifications";
+
+"Delete Notification" = "Delete Notification";
+
+"Are You Sure You Want to Delete this Notifications" = "Are You Sure You Want to Delete this Notifications";
+
+
+////// ProfileVC
+
+"Profile" = "Profile";
+
+"RecommendFriend" = "Recommend a friend ";
+
+"First name" = "First name";
+
+"Last name" = "Last name";
+
+"Recommend" = "Recommend";
+
+"Facebook Profile" = "Facebook Profile";
+
+"Personal data" = "Personal data";
+
+"Family" = "Family";
+
+"Success Add Friend" = "Success Add Friend";
+
+"Do you really want to delete a family member" = "Do you really want to delete a family member";
+
+
+///// EditPersonalVC
+
+"Edit Personal data" = "Edit Personal data";
+
+"Profile Image" = "Profile Image";
+
+"Camera" = "Camera";
+
+"Photo Library" = "Photo Library";
+
+"Save Changes" = "Save Changes";
+
+"Company" = "Company";
+
+"Work Location" = "Work Location";
+
+"Update image Error" = "Something went wrong while uploading the photos";
+
+///// AddFamilyVC
+
+"Add Family" = "Add Family";
+
+"Edit Family" = "Edit Family";
+
+"Save" = "Save";
+
+"Relation" = "Relation";
+
+////// ChangePasswordVC
+
+"Change Password" = "Change Password";
+
+"Current Password" = "Current Password";
+
+"New Password" = "New Password";
+
+"Update Password" = "Update Password";
+
+"Success Update Password" = "Success Update Password";
+
+////// BecomeMemberVC
+
+"EGP" = "EGP";
+
+"CVV" = "CVV";
+
+"Submit" = "Submit";
+
+"Total" = "Total : ";
+
+"Expiry Date" = "Expiry Date";
+    
+"Card Details" = "Card Details";
+
+"Cardholder name" = "Cardholder name";
+
+"Card number" = "Card number";
+
+"The benefits" = "The benefits";
+
+"ScreenShot" = "ScreenShot";
+
+"Become VIP member" = "Become VIP member";
+
+"SuccessScreenShotMessage" = "Your purchasing  has been submitted successfully, we will get in touch with you soon!";
+
+
+////// ScanQRVC
+
+"Scan QR" = "Scan QR";
+
+"Know More" = "Know More";
+
+"Get the Vip Membership andenjoy the benefits" = "Get the Vip Membership andenjoy the benefits";
+
+////// HelpVC
+
+"FAQ" = "FAQ";
+
+"Send Message" = "Send Message";
+
+"Success Send Your Message" = "Success Send Your Message";
+
+"Chat" = "Chat";
+
+"Call Us" = "Call Us";
+
+"About" = "About";
+
+"Privacy Policy" = "Privacy Policy";
+
+"About Le Lac Du" = "About Le Lac Du";
+
+"Terms & Conditions" = "Terms & Conditions";
+
+"Find the answer you are looking for now!" = "Find the answer you are looking for now!";
+
+"Message us if you have any inquiries!" = "Message us if you have any inquiries!";
+
+"Start chatting with us now!" = "Start chatting with us now!";
+
+"Call us now to learn more!" = "Call us now to learn more!";
+
+"More about us and what we do!" = "More about us and what we do!";
+
+"Know more about privacy policy!" = "Know more about privacy policy!";
+
+"Get to know our terms of service!" = "Get to know our terms of service!";
+
+////// SendMessageVC
+
+"How can we help you?" = "How can we help you?";
+
+"Name (Autofilled)" = "Name (Autofilled)";
+
+"Subject" = "Subject";
+
+"Message" = "Message";
+
+"Send Message" = "Send Message";
+
+
+//////// SettingsVC
+
+"Settings" = "Settings";
+
+"Notification Settings" = "Notification Settings";
+
+"Check your notifications settings" = "Check your notifications settings";
+
+////// NotificationSettingsVC
+
+"Notification Settings" = "Notification Settings";
+
+"Newsletter notifications" = "Newsletter notifications";
+
+"Featured events notifications" = "Featured events notifications";
+
+"Happening now events notifications" = "Happening now events notifications";
+
+"Area updates notifications" = "Area updates notifications";
+
+"Special offers notifications" = "Special offers notifications";
+
+"My events reminder notifications" = "My events reminder notifications";
+
+///// EventInquiryVC
+
+"Event Inquiry" = "Event Inquiry";
+
+"Time" = "Time";
+
+"Date" = "Date";
+
+"Event name" = "Event name";
+
+"Event type" = "Event type";
+
+"Submit Inquiry" = "Submit Inquiry";
+
+"Notes (Optional)" = "Notes (Optional)";
+
+"Number of Attendees" = "Number of Attendees";
+
+"Name" = "Name";
+
+"Please note our Team Will Contact you shortly to discuss the Event details." = "Please note our Team Will Contact you shortly to discuss the Event details.";
+
+
+/////// PendingReviewsRating
+
+"Review" = "Review";
+
+"Reviews" = "Reviews";
+
+"Add Review" = "Add Review";
+
+"Overall Rating" = "Overall Rating";
+
+"Add your review" = "Add your review";
+
+"How was your experience?" = "How was your experience?";
+
+"Success Add Review" = "Success Add Review";
+
+"You can't Edit the is Review" = "You can't Edit the is Review";
+
+"How was the event organization?" = "How was the event organization?";
+
+
+///// ReservationsDetailsVC
+
+"People" = "People";
+
+"Note" = "Note";
+
+"Edit" = "Edit";
+
+"Cancel reservation" = "Cancel reservation";
+
+
+////// ReservationsEditVC
+
+"Book Table" = "Book Table";
+
+"Selected Guests" = "Selected Guests";
+
+"BookTableMessage" = "Please note the Table booked are for registered family members in your account ";
+
+"Invite guests" = "Invite guests";
+
+///// InviteGuestsVC
+
+"Contacts" = "Contacts";
+
+"Next" = "Next";
+
+"Search" = "Search";
+
+"No results were found for your search, please try again with a different word" = "No results were found for your search, please try again with a different word";
+
+////// InviteGuestsSelected
+
+"Confirm" = "Confirm";
+
+"QR code will be generated automatically and sent in a link format by SMS to the invited guests " = "QR code will be generated automatically and sent in a link format by SMS to the invited guests ";
+
+
+///// PlacesUtilitiesVC
+
+"All" = "All";
+
+"Utilities" = "Utilities";
+
+"SubUtilities" = "SubUtilities";
+
+/////// RetailVC
+
+"About" = "About";
+
+"Offers" = "Offers";
+
+"Gallery" = "Gallery";
+
+"Menu" = "Menu";
+
+"Book Ticket" = "Book Ticket";
+
+"Create Event Request" = "Create Event Request";
+
+
+//// Calendar
+
+"Select Date" = "Select Date";
+
+"Available" = "Available";
+
+"Selected" = "Selected";
+
+"Not Available" = "Not Available";
+
+"(Requires Booking)" = " (Requires Booking)";
+
+"Free" = "Free";
+
+"(No required booking)" = " (No required booking)";
+
+"to" = "to";
+
+"Success Add Event" = "Success Add Event";
+
+
+///// BookVC
+
+"SUN" = "SUN";
+"MON" = "MON";
+"TUE" = "TUE";
+"WED" = "WED";
+"THU" = "THU";
+"FRI" = "FRI";
+"SAT" = "SAT";
+
+"Share Qr Code" = "Share Qr Code";
+
+"Back to home" = "Back to home";
+
+"Book Confirmation" = "Book Confirmation";
+
+"Select Your Family" = "Select Your Family";
+
+"You must add at least one person" = "You must add at least one person";
+
+"This reservation cannot be canceled" = "This reservation cannot be canceled";
+
+"Delete booking" = "Delete booking";
+
+"Are You Sure You Want to Delete this Booking" = "Are You Sure You Want to Delete this Booking";
+
+"It is not possible to add an invitation to more than four guests" = "It is not possible to add an invitation to more than four guests";

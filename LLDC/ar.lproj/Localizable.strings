@@ -1,0 +1,584 @@
+/* 
+  Localizable.strings
+  LLDC
+
+  Created by Emojiios on 28/03/2022.
+  
+*/
+
+"lang" = "ar";
+
+"Cancel" = "الغاء";
+
+"back" = "الى الخلف";
+
+"Close" = "أغلق";
+
+"Done" = "تم";
+
+"of" = "من";
+
+"photo" = "صوره";
+
+"photos" = "الصور";
+
+"Try Again" = "حاول مجددآ";
+
+"Loading ...." = "جار التحميل ....";
+
+"Pull more" = "اسحب المزيد...";
+
+"Updating" = "جارٍ التحديث...";
+
+"Error" = "خطأ";
+
+"Success" = "نجاح";
+
+"Warning" = "تحذير";
+
+"Map" = "خريطة";
+
+"min" = "دقيقة";
+
+"hour" = "ساعة";
+
+"day" = "يوم";
+
+"week" = "أسبوع";
+
+"month" = "شهر";
+
+"Year" = "سنة";
+
+"ago" = "منذ";
+
+"s" = "ث";
+
+"French" = "فرنسي";
+
+"Arabic" = "عربي";
+
+"Einglish" = "إنجليزي";
+
+"Explore Areas" = "استكشف المناطق";
+
+"Recent Searches" = "عمليات البحث الأخيرة";
+
+"Search Results" = "نتائج البحث";
+
+"Something went wrong" = "هناك خطأ ما";
+
+"The request timed out." = ".انتهت مهله الطلب";
+
+"InternetNotAvailable" = "اتصال الإنترنت غير متوفر!";
+
+"There is no change in the data" = "لا يوجد تغيير في البيانات";
+
+"Something went wrong while processing your request, please try again later" = "حدث خطأ ما أثناء معالجة طلبك ، يرجى المحاولة مرة أخرى في وقت لاحق";
+
+"HelMSG" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo";
+
+
+////// StatusCodes
+
+"ERROR MESSAG" = "رسالة خطأ";
+"No Content" = "لا يوجد محتوى";
+"NotModified" = "غير معدل";
+"Bad Request" = "اقتراح غير جيد";
+"Unauthorized" = "غير مصرح";
+"Not Found" = "لم يتم العثور على";
+"NotAllowed" = "غير مسموح";
+"internalServerError" = "خطأ في الخادم الداخلي";
+"Email is used" = "البريد الإلكتروني مستخدم";
+"Phone Number is used" = "رقم الهاتف مستخدم";
+"User already exists" = "المستخدم موجود اصلا";
+"You have reached the invitation limit" = "لقد وصلت إلى حد الدعوة";
+
+////// FloatingTF
+
+"It can't be empty" = "لا يمكن أن تكون فارغة";
+
+"Enter the email correctly" = "أدخل البريد الإلكتروني بشكل صحيح";
+
+"The phone number should begin with 01" = "أدخل رقم الهاتف بشكل صحيح";
+
+"Password must be more than 6 elements" = "يجب أن تكون كلمة المرور أكثر من 6 عناصر";
+
+/////  SignInController
+
+"Email" = "بريد الالكتروني";
+
+"Sign In" = "تسجيل الدخول";
+
+"Bonjour!" = "!صباح الخير";
+
+"Password" =  "كلمة المرور";
+
+"Forgot password?" = "هل نسيت كلمة السر؟";
+
+"Sign In to your account" = "تسجيل الدخول إلى حسابك";
+
+"now!" = "حاليا! ";
+
+"Explore" = "استكشف";
+
+"Don’t have an account?" = "ليس لديك حساب؟";
+
+"Apply for membership" = "التقديم على العضوية";
+
+/////  ResetPassword
+
+"Reset Password" = "إعادة تعيين كلمة المرور";
+
+"Forgot your password" = "نسيت رقمك السري؟";
+
+"Reset password Message" = "أدخل عنوان بريدك الإلكتروني لتتلقى كلمة مرورك لمرة واحدة لإعادة تعيين كلمة مرورك";
+
+"Password Reset link" = "رابط إعادة تعيين كلمة المرور";
+
+"Password reset link has been successfully sent to your email" = "تم بنجاح إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني";
+
+
+////// OTPController
+
+"Verification Code" = "رمز التحقق";
+
+"Please enter the OTP that has been just sent to your mobile number" = "الرجاء إدخال كلمة المرور لمرة واحدة التي تم إرسالها للتو إلى رقم هاتفك المحمول";
+
+"Edit Number" = "تعديل الرقم";
+
+"OTP is not correct" = "رقم التحقق غير صحيح";
+
+"Validate" = "تحقق";
+
+"sec" = "ثانية";
+
+"Edit Number" = "تغير الرقم";
+
+"Resend OTP" = "إعادة إرسال الرمز";
+
+"The code will be resend in" = "سيتم إرسال الرمز مرة أخرى بعد";
+
+"Go Home" = "الصفحه الرئيسيه";
+
+
+////// SignUp
+
+"City" = "المدينة";
+
+"Sign Up" = "انشاء حساب";
+
+"Instagram" = "انستغرام";
+
+"Facebook" = "فيسبوك";
+
+"Birthday" = "تاريخ الميلاد";
+
+"Full name" = "الاسم كامل";
+
+"Male" = "ذكر";
+
+"FeMale" = "أنثى";
+
+"Gender" = "النوع";
+
+"Linked in" = "لينكد ان";
+
+"FamilyMembers" = "أفراد الأسرة";
+
+"Already have an account" = "هل لديك حساب";
+
+"to your account here" = "لحسابك هنا";
+
+"Phone Numbe" = "رقم التليفون";
+
+"Home Address" = "عنوان المنزل";
+
+"Select your country" = "اختر بلدك";
+
+"How did you know us?" = "كيف عرفتنا؟";
+
+"to your account here!" = "إلى حسابك هنا!";
+
+"Already have an account?" = "هل لديك حساب؟";
+
+"I read and agree to the Terms and Conditions" = "قرأت ووافقت على الشروط والأحكام";
+
+
+////// homeVC
+"Featured Events" = "فعاليات مميزة";
+
+"Shops offers" = "عروض المحلات";
+
+"Food & Beverage" = "طعام وشراب";
+
+"Happening now" = "يحدث الآن";
+
+"Jardins" = "جاردينز";
+
+"Utilitie" = "خدمة";
+
+"Utilities" = "خدمات";
+
+"Top" = "قمة";
+
+"Coming soon Events" = "الأحداث القريبه";
+
+"Let’s explore today’s fun!" = "دعونا نستكشف متعة اليوم!";
+
+///// MenuVC
+
+"View Profile" = "عرض الصفحة الشخصية ❯";
+
+"Become Platinum Member" = "كن عضوا بلاتينيا";
+
+"Update Password" = "تحديث كلمة السر";
+
+"Reservations" = "التحفظات";
+
+"Inquire for your event" = "استفسر عن الحدث الخاص بك";
+
+"Pending Reviews" = "المراجعات المعلقة";
+
+"Saved" = "المحفوظ";
+
+"Settings" = "إعدادات";
+
+"Help" = "مساعدة";
+
+"Language" = "لغة";
+
+"Log Out" = "تسجيل خروج";
+
+"Are You Sure You Want to log out of your account" = "هل أنت متأكد أنك تريد تسجيل الخروج من حسابك";
+
+
+////// Notifications
+
+"Delete" = "حذف";
+
+"Notifications" = "إشعارات";
+
+"You have" = "لديك";
+
+"unread notifications" = "إشعارات غير مقروءة";
+
+"Delete Notification" = "حذف الإشعار";
+
+"Are You Sure You Want to Delete this Notifications" = "هل أنت متأكد أنك تريد حذف هذه الإشعار";
+
+////// ProfileVC
+
+"Profile" = "الصفحه الشخصيه";
+
+"RecommendFriend" = " أوصي بصديق";
+
+"First name" = "الاسم الأول";
+
+"Last name" = "الاسم الاخير";
+
+"Recommend" = "اضف صديق";
+
+"Success Add Friend" = "نجاح إضافة صديق";
+
+"Facebook Profile" = "حساب فيسبوك";
+
+"Personal data" = "بيانات شخصية";
+
+"Family" = "العائلة";
+
+"Do you really want to delete a family member" = "هل حقآ تريد حذف أحد أفراد الأسرة";
+
+///// EditPersonalVC
+
+"Edit Personal data" = "تحديث البيانات الشخصية";
+
+"Profile Image" = "صورة الملف الشخصي";
+
+"Camera" = "كاميرا";
+
+"Photo Library" = "مكتبة الصور";
+
+"Save Changes" = "حفظ التغييرات";
+
+"Company" = "شركة";
+
+"Work Location" = "مكان العمل";
+
+"Update image Error" = "حدث خطأ ما أثناء تحميل الصور";
+
+///// AddFamilyVC
+
+"Add Family" = "أضف العائلة";
+
+"Edit Family" = "تحديث العائلة";
+
+"Save" = "حفظ";
+
+"Relation" = "العلاقة";
+
+
+////// ChangePasswordVC
+
+"Change Password" = "تغيير كلمة المرور";
+
+"Current Password" = "كلمة المرور الحالي";
+
+"New Password" = "كلمة مرور جديدة";
+
+"Update Password" = "تحديث كلمة المرور";
+
+"Success Update Password" = "نجاح تحديث كلمة المرور";
+
+////// BecomeMemberVC
+
+"EGP" = "جنيه";
+
+"CVV" =  "كود البطاقه";
+
+"Submit" = "تقديم";
+
+"Total" = "المجموع  : ";
+
+"Expiry Date" = "تاريخ الانتهاء";
+    
+"Card Details" = "معلومات البطاقة";
+
+"Cardholder name" = "إسم صاحب البطاقة";
+
+"Card number" = "رقم البطاقة";
+
+"The benefits" = "الفوائد";
+
+"ScreenShot" = "لقطة شاشة";
+
+"Become VIP member" = "كن عضوا في VIP";
+
+"SuccessScreenShotMessage" = "تم إرسال مشترياتك بنجاح ، وسنتواصل معك قريبًا!";
+
+////// ScanQRVC
+
+"Scan QR" = "مسح QR";
+
+"Know More" = "تعرف أكثر";
+
+"Get the Vip Membership andenjoy the benefits" = "احصل على عضوية Vip واستمتع بالمزايا";
+
+////// HelpVC
+
+"FAQ" = "التعليمات";
+
+"Send Message" = "أرسل رسالة";
+
+"Chat" = "دردشة";
+
+"Call Us" = "اتصل بنا";
+
+"Success Send Your Message" = "نجح إرسال رسالتك";
+
+"About" = "حول";
+
+"Privacy Policy" = "سياسة خاصة";
+
+"About Le Lac Du" = "حول Le Lac Du";
+
+"Terms & Conditions" = "البنود و الظروف";
+
+"Find the answer you are looking for now!" = "اعثر على الجواب الذي تبحث عنه الآن!";
+
+"Message us if you have any inquiries!" = "راسلنا إذا كان لديك أي استفسارات!";
+
+"Start chatting with us now!" = "ابدأ الدردشة معنا الآن!";
+
+"Call us now to learn more!" = "اتصل بنا الآن لمعرفة المزيد!";
+
+"More about us and what we do!" = "المزيد عنا وماذا نفعل!";
+
+"Know more about privacy policy!" = "اعرف المزيد عن سياسة الخصوصية!";
+
+"Get to know our terms of service!" = "تعرف على شروط الخدمة لدينا!";
+
+////// SendMessageVC
+
+"How can we help you?" = "كيف يمكننا مساعدتك؟";
+
+"Name (Autofilled)" = "الاسم (مملوء تلقائيًا)";
+
+"Subject" = "الموضوعات";
+
+"Message" = "الرسالة";
+
+//////// SettingsVC
+
+"Notification Settings" = "إعدادات الإشعار";
+
+"Check your notifications settings" = "تحقق من إعدادات الإشعارات";
+
+////// NotificationSettingsVC
+
+"Newsletter notifications" = "إخطارات النشرة الإخبارية";
+
+"Featured events notifications" = "إخطارات الأحداث المميزة";
+
+"Happening now events notifications" = "يحدث الآن إشعارات الأحداث";
+
+"Area updates notifications" = "إخطارات تحديثات المنطقة";
+
+"Special offers notifications" = "إخطارات العروض الخاصة";
+
+"My events reminder notifications" = "إخطارات تذكير الأحداث الخاصة بي";
+
+
+///// EventInquiryVC
+
+"Event Inquiry" = "الاستفسار عن الحدث";
+
+"Time" = "زمن";
+
+"Date" = "تاريخ";
+
+"Event name" = "اسم الحدث";
+
+"Event type" = "نوع الحدث";
+
+"Submit Inquiry" = "إرسال الاستفسار";
+
+"Notes (Optional)" = "ملاحظات (اختياري)";
+
+"Number of Attendees" = "عدد الحضور";
+
+"Name" = "الاسم";
+
+"Please note our Team Will Contact you shortly to discuss the Event details." = "يرجى ملاحظة أن فريقنا سيتصل بك قريبًا لمناقشة تفاصيل الفعالية.";
+
+
+/////// PendingReviewsRating
+
+"Review" = "مراجعة";
+
+"Reviews" = "المراجعات";
+
+"Add Review" = "إضافة مراجعة";
+
+"Overall Rating" = "تقييم عام";
+
+"Add your review" = "إضافة تقييمك";
+
+"How was your experience?" = "كيف كانت تجربتك؟";
+
+"Success Add Review" = "نجاح إضافة المراجعة";
+
+"You can't Edit the is Review" = "لا يمكنك تعديل هذه المراجعة";
+
+"How was the event organization?" = "كيف كان تنظيم الحدث؟";
+
+
+///// ReservationsDetailsVC
+
+"People" = "الناس";
+
+"Note" = "ملحوظة";
+
+"Edit" = "تعديل";
+
+"Cancel reservation" = "إلغاء الحجز";
+
+
+////// ReservationsEditVC
+
+"Book Table" = "حجز";
+
+"Selected Guests" = "الضيوف المختارون";
+
+"BookTableMessage" = " يرجى ملاحظة أن الجدول المحجوز مخصص لأفراد العائلة المسجلين في حسابك";
+
+"Invite guests" = "دعوة ضيوف";
+
+///// InviteGuestsVC
+
+"Contacts" = "جهات الاتصال";
+
+"Next" = "التالي";
+
+"Search" = "بحث";
+
+"No results were found for your search, please try again with a different word" = "لم يتم العثور على نتائج لبحثك ، يرجى المحاولة مرة أخرى بكلمة مختلفة";
+
+////// InviteGuestsSelected
+
+"Confirm" = "تاكيد";
+
+"QR code will be generated automatically and sent in a link format by SMS to the invited guests " = "سيتم إنشاء رمز الاستجابة السريعة تلقائيًا وإرساله بتنسيق رابط عبر الرسائل القصيرة إلى الضيوف المدعوين";
+
+///// PlacesUtilitiesVC
+
+"All" = "الكل";
+
+"Utilities" = "خدمات";
+
+"SubUtilities" = "خدمات فرعية";
+
+
+/////// RetailVC
+
+"About" = "حول";
+
+"Offers" = "عروض";
+
+"Gallery" = "الصور";
+
+"Menu" = "قائمة الطعام";
+
+"Book Ticket" = "حجز التذاكر";
+
+"Create Event Request" = "إنشاء طلب حدث";
+
+
+//// Calendar
+
+"Select Date" = "حدد تاريخ";
+
+"Available" = "متوفرة";
+
+"Selected" = "المحدد";
+
+"Not Available" = "غير متوفر";
+
+"(Requires Booking)" = " (يتطلب الحجز)";
+
+"Free" = "مجانا";
+
+"(No required booking)" = " (لا يوجد حجز مطلوب)";
+
+"to" = "الي";
+
+"Success Add Event" = "نجاح إضافة الحدث";
+
+
+///// BookVC
+
+"SUN" = "الأحد";
+"MON" = "الاثنين";
+"TUE" = "الثلاثاء";
+"WED" = "الأربعاء";
+"THU" = "الخميس";
+"FRI" = "الجمعة";
+"SAT" = "السبت";
+
+"Share Qr Code" = "مشاركة كود الرمز";
+
+"Back to home" = "الي الصفحه الرئسيه";
+
+"Book Confirmation" = "تأكيد الحجز";
+
+"Select Your Family" = "حدد عائلتك";
+
+"You must add at least one person" = "يجب عليك إضافة شخص واحد على الأقل";
+
+"This reservation cannot be canceled" = "لا يمكن إلغاء هذا الحجز";
+
+"Delete booking" = "حذف الحجز";
+
+"Are You Sure You Want to Delete this Booking" = "هل أنت متأكد أنك تريد حذف هذا الحجز";
+
+"It is not possible to add an invitation to more than four guests" = "لا يمكن إضافة دعوة لأكثر من أربعة ضيوف";
